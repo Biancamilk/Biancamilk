@@ -1,12 +1,11 @@
 ## Hi there 👋
 
-<!--
-**Biancamilk/biancamilk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+things about me:
 
-Here are some ideas to get you started:
+Age: 20
+graduation:I started studying software engineering but had to stop, I intend to return for the 5th semester this year (2024)
 
-- 🌱 I’m currently learning java and php
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
 
--->
+- 🌱 I’m currently learning java and php.
+- 📫 I'm looking for a job in the area, as front-end.
+
